@@ -1,0 +1,17 @@
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\bin\Debug\net6.0-windows\RisXpert.exe
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\bin\Debug\net6.0-windows\RisXpert.deps.json
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\bin\Debug\net6.0-windows\RisXpert.runtimeconfig.json
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\bin\Debug\net6.0-windows\RisXpert.dll
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\bin\Debug\net6.0-windows\RisXpert.pdb
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.csproj.AssemblyReference.cache
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.csproj.GenerateResource.cache
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.AssemblyInfoInputs.cache
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.AssemblyInfo.cs
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.csproj.CoreCompileInputs.cache
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.dll
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\refint\RisXpert.dll
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.pdb
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.genruntimeconfig.cache
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\ref\RisXpert.dll
+C:\Users\richt\OneDrive\Desktop\6to Cuatri\Programacion para mecatronicos\Tareas\proyectos-PARJ\PROYECTO RIESGO PROGRAMACION\RisXpert\RisXpert\obj\Debug\net6.0-windows\RisXpert.RisXpert.resources
